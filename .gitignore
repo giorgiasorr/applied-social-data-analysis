@@ -1,0 +1,14 @@
+# R history and workspace
+.Rhistory
+.RData
+.Rproj.user/
+
+# RStudio files
+.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output
+*.log
