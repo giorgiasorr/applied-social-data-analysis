@@ -212,7 +212,3 @@ Each folder represents a self-contained project with its own data generation, an
 
 **Giorgia Sorrentino**
 MSc Computational Linguistics 
-
-Links:
-- LinkedIn: https://www.linkedin.com/in/giorgia-sorrentino 
-- GitHub: https://github.com/giorgiasorr
